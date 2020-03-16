@@ -1,0 +1,43 @@
+html {
+    background-image: url(newstest3.png);
+}
+
+.cell {
+    border: 1.2px solid black;
+    position: absolute;
+    height: 70px;
+    width: 70px;
+}
+
+#cell-container {
+    position: absolute;
+    top: 0px;
+    bottom: 0;
+    right: 0;
+    left: 0;
+    overflow: hidden;
+}
+
+h1 {
+    font-size: 100px;
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+    margin-top: 20%;
+    margin-right: 60px;
+}
+
+/* h3 {
+    color: green;
+    font-size: 50px;
+    margin-top: 40%;
+    margin-left: 30px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    opacity: 0;
+} */
+
+h2 {
+    font-size: 80px;
+    text-align: center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin-right: 60px;
+}
